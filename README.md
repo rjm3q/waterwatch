@@ -36,10 +36,12 @@ To run WaterWatch locally, follow these steps:
 
    ```bash
    git clone https://github.com/rjm3q/waterwatch.git
-2.Navigate to project directory
-
-  cd waterwatch
+2. Navigate to project directory
+    ```bash
+    cd waterwatch
 3. Install dependencies
-  dotnet restore
+    ```bash
+    dotnet restore
 4. Run the application
-  dotnet run
+    ```bash
+    dotnet run
